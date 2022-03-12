@@ -1,0 +1,105 @@
+/* home-section start */
+.nav-edit{
+    font-weight: 700;
+    margin-left: 30px;
+}
+.home-writing-part{
+    margin-top: 80px;
+}
+.gray-color{
+    color: #3A4256;
+}
+.home-writing-part p{
+    color:gray;
+    padding-right: 60px;
+}
+.home-section{
+    background-image: url(./images/bg.png);
+    min-height: 550px ;
+}
+.home-img{
+   
+    width: 500px;
+}
+/* profile card start */
+.profile-card1 {
+    width:96%;
+    margin: 10px 2%;
+   border-radius: 10px;
+    background-color:#1CC7C1;
+    display: flex;
+    color: white;
+    padding: 20px 15px;
+}
+.profile-card2 {
+    width:95%;
+    margin: 10px 2%;
+   border-radius: 10px;
+    background-color:#3A4256;
+    display: flex;
+    color: white;
+    padding: 20px 15px;
+}
+.icon-edit{
+    margin-top: 30px;
+    padding: 0px 15px;
+}
+/* profile card start */
+.service h3{
+    color: #1CC7C1;
+}
+/* profile card end */
+/* treatment start */
+.treatment{
+    height: 440px;
+}
+/* treatment end */
+/* Appoinment start */
+.Appoinment{
+    background-color: #3A4256;
+}
+/* Appoinment end */
+/* Testimonial start */
+.testimonial-box{
+    box-shadow: 0px 0px 10px 10px #E7E4E4;
+    margin: 5px 40px;
+    
+}
+.testimonial-p{
+   text-align: justify;
+}
+/* Testimonial end */
+/* our-doctor start */
+.doctor-img{
+    height: 250px;
+}
+/* contact part start */
+.contact-part{
+    background-image: url(./images/contact-bg.jpg);
+    min-height: 470px ;
+}
+.form-edit1{
+    width: 450px;
+    height: 30px;
+    border-radius: 6px;
+    border: 0px;
+}
+.form-edit2{
+    width: 450px;
+    height: 30px;
+    border-radius: 6px;
+    border: 0px;
+}
+.form-edit3{
+    width: 450px;
+    height: 200px;
+    border-radius: 6px;
+    border: 0px;
+}
+/* contact part end */
+/* fotter start */
+.fotter{
+    height: 80px;
+    background-color: #0DCAF0;
+}
+/* fotter end */
